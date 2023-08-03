@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import NoImagen from '../images/no-imagen.jpg'
 import { AiFillHeart } from 'react-icons/ai'
 import { Link } from 'react-router-dom'
-import { Context } from '../context/appContext'
+import { Context } from '../context/AppContext'
 
 const PeopleCard = ({ index, character }) => {
 

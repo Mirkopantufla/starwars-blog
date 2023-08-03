@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { Context } from "../context/appContext";
+import { Context } from "../context/AppContext.jsx";
 import { BsFillTrashFill } from 'react-icons/bs'
 import StarWars from '../images/starwarsCortado.png'
 
