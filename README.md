@@ -1,2 +1,3 @@
-# starwars-blog
-Starwars Reading Blog con comando npm create vite
+# Starwars reading blog
+
+https://starwars-blog-pi.vercel.app/
